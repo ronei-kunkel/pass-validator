@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "PassValidator\\": "app/"
+    },
+    "files": [
+      "config/database.php",
+      "config/app.php"
+    ]
+  }
+}
