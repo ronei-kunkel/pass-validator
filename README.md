@@ -38,4 +38,4 @@ Pronto! Agora é só usufruir da api validadora de senhas.
 
 ### OBS
 
-Por mais que não estejam muito bem documentadas as classes "Request" e "Router" elas foram completamente desenvolvidas por mim e fazem parte de um mini framework que estou desenvolvendo.
+Por mais que não estejam muito bem documentadas as classes "Request" e "Router" elas foram completamente desenvolvidas por mim e fazem parte de um mini framework que estou desenvolvendo. <https://github.com/ronei-kunkel/minifram-php>
